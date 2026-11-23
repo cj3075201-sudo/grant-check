@@ -1,7 +1,7 @@
 {
  "generatedAt": "2026-10-25T00:00:00+09:00",
  "builtAt": "2026-11-09T12:53:22",
- "source": "판정 시험 v3 게임 공고 39건(2026) + supplement.json",
+ "source": "판정 시험 v3 게임 공고 39건(2026) + supplement.json + 11/20 새 공고 7건",
  "notices": [
   {
    "id": "g2",
@@ -5261,6 +5261,834 @@
     "연령": []
    },
    "chk": null
+  },
+  {
+   "id": "bPBLN_000000000119967",
+   "dummy": false,
+   "title": "[전북] 2026년 게임인재 맞춤형 인턴십 지원사업 공고(전북 글로벌게임센터)",
+   "org": "전북특별자치도콘텐츠융합진흥원",
+   "deadline": null,
+   "deadlineTime": null,
+   "deadlineText": "예산 소진시까지",
+   "sourceUrl": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119967",
+   "applyUrl": "https://www.bojo.go.kr/bojo.do?popShareUrl=/ia/getIA005100Popup.do?&bsnsyear=&wdrLcgvCode=&labSfrndCode=&manageBsnsId=&nttId=202641000000400100009A&pid=POPUP&title=%EA%B3%B5%EB%AA%A8%EC%A0%95%EB%B3%B4",
+   "contact": null,
+   "documents": null,
+   "benefit": "지역청년인재 채용 인턴 1인당 총 인건비 1,000만원, 최대 5개월 지원(기업당 최대 3명)",
+   "ex": {
+    "종류": {
+     "값": "실질"
+    },
+    "사업자": {
+     "값": "필요"
+    },
+    "분야": {
+     "원문": "전북특별자치도 소재 게임콘텐츠 관련분야",
+     "제한": "명시적한정",
+     "게임": "포함"
+    },
+    "소속": {
+     "값": "없음",
+     "내용": ""
+    },
+    "신분": {
+     "값": "특정신분필수",
+     "내용": "전북특별자치도 도내 기업으로 게임관련 개인사업자 또는 법인사업자(중소기업)"
+    },
+    "성별": {
+     "값": "무관"
+    },
+    "지역": {
+     "값": "소재필수",
+     "지역명": [
+      "전북"
+     ]
+    },
+    "인원": {
+     "상한": null,
+     "하한": null
+    },
+    "연령": {
+     "최소": null,
+     "최대": null
+    },
+    "기타의무": [
+     {
+      "종류": "자부담",
+      "내용": "총사업비 10% 이상 자기부담금(현금) 매칭 필수, 인턴 급여 월 223만원 이상 지급",
+      "ev": [
+       {
+        "text": "총 사업비의 10% 이상 자기부담금(현금) 매칭 필수 ※ 현물 불인정",
+        "source": "첨부",
+        "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119967"
+       }
+      ]
+     },
+     {
+      "종류": "기타",
+      "내용": "협약일 이후 2개월 내 신규 인턴 채용(만 19~39세 전북 거주 청년), 미달성 시 협약 취소",
+      "ev": [
+       {
+        "text": "우선협약기업이협약일이후2개월내신규채용을미달성할시협약취소및예비",
+        "source": "첨부",
+        "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119967"
+       }
+      ]
+     },
+     {
+      "종류": "기타",
+      "내용": "사업기간 내 전북 본사 사업자등록 유지",
+      "ev": [
+       {
+        "text": "선정기업은 사업기간 내 전북특별자치도 본사 사업자등록 유지",
+        "source": "첨부",
+        "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119967"
+       }
+      ]
+     }
+    ],
+    "공고글부족": false,
+    "혜택": "지역청년인재 채용 인턴 1인당 총 인건비 1,000만원, 최대 5개월 지원(기업당 최대 3명)"
+   },
+   "ev": {
+    "종류": [
+     {
+      "text": "지역청년인재* 채용 인턴 1인당 총 인건비 1,000만원, 최대 5개월 지원",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119967"
+     }
+    ],
+    "사업자": [
+     {
+      "text": "공고일 기준 사업자등록이 되어있는 개인사업자 또는 법인사업자",
+      "source": "첨부",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119967"
+     },
+     {
+      "text": "신청일 현재 신청기업이 중소기업기본법 제2조에 따른 중소기업인 경우",
+      "source": "첨부",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119967"
+     }
+    ],
+    "분야": [
+     {
+      "text": "전북특별자치도 소재 게임콘텐츠 관련분야 ※지사지원불가",
+      "source": "첨부",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119967"
+     },
+     {
+      "text": "공고일 기준 게임콘텐츠 관련 분야 업종(업태) 등록이 된 자",
+      "source": "첨부",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119967"
+     }
+    ],
+    "소속": [],
+    "신분": [
+     {
+      "text": "전북특별자치도 도내 기업으로 게임관련 개인사업자 또는 법인사업자",
+      "source": "첨부",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119967"
+     }
+    ],
+    "성별": [],
+    "지역": [
+     {
+      "text": "공고일 기준 전북특별자치도 본사 소재 게임 기업(지사 지원 불가)",
+      "source": "첨부",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119967"
+     }
+    ],
+    "인원": [],
+    "연령": []
+   },
+   "chk": null,
+   "collectedAt": "2026-11-20T12:19:14+09:00"
+  },
+  {
+   "id": "bPBLN_000000000123841",
+   "dummy": false,
+   "title": "[부산] 2026년 게임ㆍ콘텐츠 기업을 위한 무료 법률 자문 오피스아워 상시 모집 공고",
+   "org": "부산정보산업진흥원",
+   "deadline": null,
+   "deadlineTime": null,
+   "deadlineText": "상시 접수",
+   "sourceUrl": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123841",
+   "applyUrl": "https://forms.gle/ZxQG52FxkrD54RFM9",
+   "contact": null,
+   "documents": null,
+   "benefit": "법률·노무 전문가 1:1 무료 맞춤 상담(계약 검토, 인사 문제, 지식재산권 보호 등)",
+   "ex": {
+    "종류": {
+     "값": "서비스"
+    },
+    "사업자": {
+     "값": "불명"
+    },
+    "분야": {
+     "원문": "게임 및 콘텐츠 기업",
+     "제한": "명시적한정",
+     "게임": "포함"
+    },
+    "소속": {
+     "값": "없음",
+     "내용": ""
+    },
+    "신분": {
+     "값": "불명",
+     "내용": "게임 및 콘텐츠 기업"
+    },
+    "성별": {
+     "값": "무관"
+    },
+    "지역": {
+     "값": "소재필수",
+     "지역명": [
+      "부산"
+     ]
+    },
+    "인원": {
+     "상한": null,
+     "하한": null
+    },
+    "연령": {
+     "최소": null,
+     "최대": null
+    },
+    "기타의무": [],
+    "공고글부족": true,
+    "혜택": "법률·노무 전문가 1:1 무료 맞춤 상담(계약 검토, 인사 문제, 지식재산권 보호 등)"
+   },
+   "ev": {
+    "종류": [
+     {
+      "text": "게임 관련 법률ㆍ노무 전문가 1:1 맞춤 상담을 지원해 드리는 사업입니다.",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123841"
+     },
+     {
+      "text": "법률ㆍ노무 분야 전문가와의 1:1컨설팅 지원",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123841"
+     }
+    ],
+    "사업자": [
+     {
+      "text": "부산지역 게임 및 콘텐츠 기업",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123841"
+     }
+    ],
+    "분야": [
+     {
+      "text": "부산지역 게임 및 콘텐츠 기업을 대상으로",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123841"
+     }
+    ],
+    "소속": [],
+    "신분": [
+     {
+      "text": "부산지역 게임 및 콘텐츠 기업",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123841"
+     }
+    ],
+    "성별": [],
+    "지역": [
+     {
+      "text": "부산지역 게임 및 콘텐츠 기업",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123841"
+     }
+    ],
+    "인원": [],
+    "연령": []
+   },
+   "chk": null,
+   "collectedAt": "2026-11-20T12:19:14+09:00"
+  },
+  {
+   "id": "bPBLN_000000000127557",
+   "dummy": false,
+   "title": "2026년 11월 문화산업특화보증 공고",
+   "org": "한국콘텐츠진흥원",
+   "deadline": "2026-11-30",
+   "deadlineTime": null,
+   "deadlineText": "2026-11-01 ~ 2026-11-30",
+   "sourceUrl": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127557",
+   "applyUrl": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127557",
+   "contact": null,
+   "documents": null,
+   "benefit": "기술보증기금 보증을 통한 콘텐츠 프로젝트 제작(기획) 자금지원(최대 10억 원)",
+   "ex": {
+    "종류": {
+     "값": "실질"
+    },
+    "사업자": {
+     "값": "필요"
+    },
+    "분야": {
+     "원문": "업종(분야) : 게임, 방송(드라마‧예능), 애니메이션, 영화, 음악, 공연(뮤지컬‧ 콘서트), 만화, 출판, 캐릭터 9개 분야",
+     "제한": "명시적한정",
+     "게임": "포함"
+    },
+    "소속": {
+     "값": "없음",
+     "내용": ""
+    },
+    "신분": {
+     "값": "특정신분필수",
+     "내용": "문화콘텐츠 제작사(문화산업전문회사 제외)"
+    },
+    "성별": {
+     "값": "무관"
+    },
+    "지역": {
+     "값": "무관",
+     "지역명": []
+    },
+    "인원": {
+     "상한": null,
+     "하한": null
+    },
+    "연령": {
+     "최소": null,
+     "최대": null
+    },
+    "기타의무": [
+     {
+      "종류": "기타",
+      "내용": "제작비 대비 30% 이상 자금조달확정 필요(보증신청금액 2억원 이하는 생략)",
+      "ev": [
+       {
+        "text": "제작비 대비 30% 이상 자금조달확정 필요(보증신청금액은 제외하며, 보증신청금액",
+        "source": "첨부",
+        "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127557"
+       }
+      ]
+     }
+    ],
+    "공고글부족": false,
+    "혜택": "기술보증기금 보증을 통한 콘텐츠 프로젝트 제작(기획) 자금지원(최대 10억 원)"
+   },
+   "ev": {
+    "종류": [
+     {
+      "text": "지원금액(보증한도) : 최대 10억 원(평가등급 등에 따라 상이)",
+      "source": "첨부",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127557"
+     },
+     {
+      "text": "대상자금 : 콘텐츠 프로젝트 제작(기획) 자금",
+      "source": "첨부",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127557"
+     }
+    ],
+    "사업자": [
+     {
+      "text": "신청대상 : 문화콘텐츠 제작사(문화산업전문회사 제외)",
+      "source": "첨부",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127557"
+     },
+     {
+      "text": "지원 대상 칸: 중소기업",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127557"
+     }
+    ],
+    "분야": [
+     {
+      "text": "업종(분야) : 게임, 방송(드라마‧예능), 애니메이션, 영화, 음악, 공연(뮤지컬‧ 콘서트),",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127557"
+     },
+     {
+      "text": "오락실용 아케이드 게임, 농구, 뽑기, 고포류, 디지털 자산(NFT, 블록체인, 코인, P2E 등)",
+      "source": "첨부",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127557"
+     }
+    ],
+    "소속": [],
+    "신분": [
+     {
+      "text": "신청대상 : 문화콘텐츠 제작사(문화산업전문회사 제외)",
+      "source": "첨부",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127557"
+     }
+    ],
+    "성별": [],
+    "지역": [],
+    "인원": [],
+    "연령": []
+   },
+   "chk": null,
+   "collectedAt": "2026-11-20T12:19:14+09:00"
+  },
+  {
+   "id": "bPBLN_000000000127612",
+   "dummy": false,
+   "title": "[경북] 2027년 Mobile World Congress (MWC 2027) 전시관 참가기업 모집 공고",
+   "org": "구미전자정보기술원",
+   "deadline": "2026-11-20",
+   "deadlineTime": null,
+   "deadlineText": "2026-10-29 ~ 2026-11-20",
+   "sourceUrl": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127612",
+   "applyUrl": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127612",
+   "contact": null,
+   "documents": null,
+   "benefit": "MWC 2027 경상북도 공동 전시관 참가 및 통역·항공료·해외운송·홍보·현장 지원",
+   "ex": {
+    "종류": {
+     "값": "실질"
+    },
+    "사업자": {
+     "값": "필요"
+    },
+    "분야": {
+     "원문": "5G, 통신 연결 기술, 게임, AI, 제조 DX, 디지털, UAM, 로봇 등 MWC 전시 성격 및 경북 주력산업과 관련된 기업",
+     "제한": "명시적한정",
+     "게임": "포함"
+    },
+    "소속": {
+     "값": "없음",
+     "내용": ""
+    },
+    "신분": {
+     "값": "특정신분필수",
+     "내용": "중소기업"
+    },
+    "성별": {
+     "값": "무관"
+    },
+    "지역": {
+     "값": "소재필수",
+     "지역명": [
+      "경북"
+     ]
+    },
+    "인원": {
+     "상한": null,
+     "하한": null
+    },
+    "연령": {
+     "최소": null,
+     "최대": null
+    },
+    "기타의무": [],
+    "공고글부족": false,
+    "혜택": "MWC 2027 경상북도 공동 전시관 참가 및 통역·항공료·해외운송·홍보·현장 지원"
+   },
+   "ev": {
+    "종류": [
+     {
+      "text": "공동 전시관, 통역, 항공료 지원, 해외운송 지원, 기업간담회, 홍보, 전시 현장 지원 및 기타 운영, 기업간 네트워킹 등 지원",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127612"
+     }
+    ],
+    "사업자": [
+     {
+      "text": "공고일 기준 본사/지사/공장/연구소의 소재지가 경북인 기업",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127612"
+     }
+    ],
+    "분야": [
+     {
+      "text": "5G, 통신 연결 기술, 게임, AI, 제조 DX, 디지털, UAM, 로봇 등 MWC 전시 성격 및 경북 주력산업과 관련된 기업",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127612"
+     }
+    ],
+    "소속": [],
+    "신분": [
+     {
+      "text": "지원 대상 칸: 중소기업",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127612"
+     }
+    ],
+    "성별": [],
+    "지역": [
+     {
+      "text": "공고일 기준 본사/지사/공장/연구소의 소재지가 경북인 기업",
+      "source": "본문",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127612"
+     }
+    ],
+    "인원": [],
+    "연령": []
+   },
+   "chk": null,
+   "collectedAt": "2026-11-20T12:19:14+09:00"
+  },
+  {
+   "id": "k326D00034009",
+   "dummy": false,
+   "title": "(가칭)대한민국 게임박물관 조성사업 간접보조사업자(운영사업자) 모집 공고",
+   "org": "한국콘텐츠진흥원",
+   "deadline": "2027-01-18",
+   "deadlineTime": null,
+   "deadlineText": null,
+   "sourceUrl": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034009&menuNo=204104",
+   "applyUrl": "https://pms.kocca.kr",
+   "contact": null,
+   "documents": null,
+   "benefit": "게임박물관 조성 간접보조사업비(설계비·운영비 등) 지원 및 운영사업자 선정",
+   "ex": {
+    "종류": {
+     "값": "실질"
+    },
+    "사업자": {
+     "값": "필요"
+    },
+    "분야": {
+     "원문": "게임박물관 조성 및 운영",
+     "제한": "명시적한정",
+     "게임": "애매"
+    },
+    "소속": {
+     "값": "없음",
+     "내용": ""
+    },
+    "신분": {
+     "값": "특정신분필수",
+     "내용": "비영리법인, 공익법인, 학교법인, 재단법인, 사단법인, 지방자치단체 및 지방자치단체 출자·출연기관"
+    },
+    "성별": {
+     "값": "무관"
+    },
+    "지역": {
+     "값": "무관",
+     "지역명": []
+    },
+    "인원": {
+     "상한": null,
+     "하한": null
+    },
+    "연령": {
+     "최소": null,
+     "최대": null
+    },
+    "기타의무": [
+     {
+      "종류": "기타",
+      "내용": "연면적 1,652㎡ 이상, 20년 이상 장기 무상 사용 가능한 토지·건축물 제안 및 3자 협약 체결",
+      "ev": [
+       {
+        "text": "20년 이상 장기 무상 사용이 가능하고, 운영사업자 변경 또는 소유권 변동 시 관련 사용권 권리·의무 승계가 가능한 토지 및 건축물",
+        "source": "본문",
+        "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034009&menuNo=204104"
+       }
+      ]
+     }
+    ],
+    "공고글부족": false,
+    "혜택": "게임박물관 조성 간접보조사업비(설계비·운영비 등) 지원 및 운영사업자 선정"
+   },
+   "ev": {
+    "종류": [
+     {
+      "text": "(선정 규모) 1개 간접보조사업자",
+      "source": "본문",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034009&menuNo=204104"
+     },
+     {
+      "text": "26년 사업에서는 간접보조사업비는 설계비(12억 8,300만원) 운영비 일부(약3,200만원) 배정",
+      "source": "본문",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034009&menuNo=204104"
+     }
+    ],
+    "사업자": [
+     {
+      "text": "주관기관은 아래에 해당하는 법인 또는 기관으로서, 국고보조금 집행·정산 및 협약 이행이 가능한 기관",
+      "source": "본문",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034009&menuNo=204104"
+     }
+    ],
+    "분야": [
+     {
+      "text": "그 밖에 게임박물관 조성 및 운영 역량을 갖춘 비영리법인",
+      "source": "본문",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034009&menuNo=204104"
+     },
+     {
+      "text": "게임 관련 전시·교육·문화·체험 프로그램 운영 실적 또는 이에 준하는 기획·운영 역량 보유",
+      "source": "본문",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034009&menuNo=204104"
+     }
+    ],
+    "소속": [],
+    "신분": [
+     {
+      "text": "비영리법인, 공익법인, 학교법인, 재단법인, 사단법인",
+      "source": "본문",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034009&menuNo=204104"
+     },
+     {
+      "text": "지방자치단체 및 지방자치단체 출자·출연기관",
+      "source": "본문",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034009&menuNo=204104"
+     }
+    ],
+    "성별": [],
+    "지역": [],
+    "인원": [],
+    "연령": []
+   },
+   "chk": null,
+   "collectedAt": "2026-11-20T12:19:14+09:00"
+  },
+  {
+   "id": "s179682",
+   "dummy": false,
+   "title": "2026 방탈출 공간 게임 제작 지원사업",
+   "org": "에픽로그협동조합",
+   "deadline": "2026-11-30",
+   "deadlineTime": null,
+   "deadlineText": null,
+   "sourceUrl": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179682",
+   "applyUrl": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179682",
+   "contact": null,
+   "documents": null,
+   "benefit": "총 5,000만 원 상당 공간 맞춤형 방탈출 게임 무상 제작(라이선스·홍보 포함)",
+   "ex": {
+    "종류": {
+     "값": "실질"
+    },
+    "사업자": {
+     "값": "불필요"
+    },
+    "분야": {
+     "원문": "서울 소재 박물관, 전시관, 공원, 유휴공간 등을 운영하는 개인·단체·기관·기업 / 방탈출 주제",
+     "제한": "명시적한정",
+     "게임": "애매"
+    },
+    "소속": {
+     "값": "없음",
+     "내용": ""
+    },
+    "신분": {
+     "값": "특정신분필수",
+     "내용": "서울 소재 박물관·전시관·공원·유휴공간 등을 운영하는 개인·단체·기관·기업"
+    },
+    "성별": {
+     "값": "무관"
+    },
+    "지역": {
+     "값": "소재필수",
+     "지역명": [
+      "서울"
+     ]
+    },
+    "인원": {
+     "상한": null,
+     "하한": null
+    },
+    "연령": {
+     "최소": null,
+     "최대": null
+    },
+    "기타의무": [],
+    "공고글부족": false,
+    "혜택": "총 5,000만 원 상당 공간 맞춤형 방탈출 게임 무상 제작(라이선스·홍보 포함)"
+   },
+   "ev": {
+    "종류": [
+     {
+      "text": "총 5,000만 원 상당의 공간 맞춤형 방탈출 게임을 무상으로 제작해 드립니다.",
+      "source": "본문",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179682"
+     }
+    ],
+    "사업자": [
+     {
+      "text": "아래 주제 중 1개에 해당하는 기업 / 기관 / 개인",
+      "source": "본문",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179682"
+     },
+     {
+      "text": "별도 제출서류 없음",
+      "source": "본문",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179682"
+     }
+    ],
+    "분야": [
+     {
+      "text": "서울 소재 박물관, 전시관, 공원, 유휴공간 등을 운영하는 개인·단체·기관·기업을 대상으로",
+      "source": "본문",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179682"
+     },
+     {
+      "text": "한국문화(K-POP, 미디어, 국가유산 등)를 알리는 방탈출",
+      "source": "본문",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179682"
+     }
+    ],
+    "소속": [],
+    "신분": [
+     {
+      "text": "서울 소재 박물관, 전시관, 공원, 유휴공간 등을 운영하는 개인·단체·기관·기업을 대상으로",
+      "source": "본문",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179682"
+     }
+    ],
+    "성별": [],
+    "지역": [
+     {
+      "text": "서울 소재 박물관, 전시관, 공원, 유휴공간 등을 운영하는 개인·단체·기관·기업을 대상으로",
+      "source": "본문",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179682"
+     }
+    ],
+    "인원": [],
+    "연령": []
+   },
+   "chk": null,
+   "collectedAt": "2026-11-20T12:20:47+09:00"
+  },
+  {
+   "id": "s179794",
+   "dummy": false,
+   "title": "2026 서울게임콘텐츠센터 프라이빗 IR 참가기업 모집",
+   "org": "서울경제진흥원",
+   "deadline": "2026-11-23",
+   "deadlineTime": null,
+   "deadlineText": null,
+   "sourceUrl": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794",
+   "applyUrl": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794",
+   "contact": null,
+   "documents": null,
+   "benefit": "전문가 1:1 IR 컨설팅(2회 이상) 및 게임 분야 전문 투자자 대상 프라이빗 IR 피칭 기회",
+   "ex": {
+    "종류": {
+     "값": "실질"
+    },
+    "사업자": {
+     "값": "필요"
+    },
+    "분야": {
+     "원문": "서울 소재 게임개발사",
+     "제한": "명시적한정",
+     "게임": "포함"
+    },
+    "소속": {
+     "값": "우대",
+     "내용": "최근 3년(2024~2026)간 SBA 게임팀 지원사업 선정 기업 가산점 1점"
+    },
+    "신분": {
+     "값": "특정신분필수",
+     "내용": "법인사업자/개인사업자(서울 소재 게임개발사)"
+    },
+    "성별": {
+     "값": "무관"
+    },
+    "지역": {
+     "값": "소재필수",
+     "지역명": [
+      "서울"
+     ]
+    },
+    "인원": {
+     "상한": null,
+     "하한": null
+    },
+    "연령": {
+     "최소": null,
+     "최대": null
+    },
+    "기타의무": [
+     {
+      "종류": "출석",
+      "내용": "최종 선정기업은 IR 컨설팅 및 본행사 프라이빗 IR 필수 참여",
+      "ev": [
+       {
+        "text": "최종 선정기업은 IR 컨설팅 및 본행사 프라이빗 IR에 필히 참여해야 함",
+        "source": "첨부",
+        "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794"
+       }
+      ]
+     },
+     {
+      "종류": "기타",
+      "내용": "시연 가능한 게임콘텐츠 필요(기획·제작 단계로 시연 불가 시 지원제한)",
+      "ev": [
+       {
+        "text": "기획 혹은 제작 단계로서 게임콘텐츠의 원활한 전시 및 시연이 불가능한 경우",
+        "source": "첨부",
+        "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794"
+       }
+      ]
+     }
+    ],
+    "공고글부족": false,
+    "혜택": "전문가 1:1 IR 컨설팅(2회 이상) 및 게임 분야 전문 투자자 대상 프라이빗 IR 피칭 기회"
+   },
+   "ev": {
+    "종류": [
+     {
+      "text": "전문가 1:1 매칭 IR 컨설팅 및 투자자를 대상으로 실전 투자유치 IR 기회를 제공하는 지원사업의",
+      "source": "첨부",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794"
+     },
+     {
+      "text": "방식: 게임 분야 전문 투자자(VC 등) 5인 내외 대상 IR 피칭 진행",
+      "source": "첨부",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794"
+     }
+    ],
+    "사업자": [
+     {
+      "text": "※ 모집마감일 기준 사업자 등록이 완료된 기업만 신청 가능",
+      "source": "첨부",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794"
+     },
+     {
+      "text": "투자 유치를 희망하는 서울 소재 게임개발사(법인/개인사업자)",
+      "source": "본문",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794"
+     }
+    ],
+    "분야": [
+     {
+      "text": "모집대상: 투자유치를 희망하는 서울 소재 게임개발사",
+      "source": "첨부",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794"
+     }
+    ],
+    "소속": [
+     {
+      "text": "- 가산점  - 최근 3년(2024~2026)간 SBA 게임팀에서 실시한 지원사업 선정 기업 (1점)",
+      "source": "첨부",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794"
+     }
+    ],
+    "신분": [
+     {
+      "text": "투자 유치를 희망하는 서울 소재 게임개발사(법인/개인사업자)",
+      "source": "본문",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794"
+     }
+    ],
+    "성별": [],
+    "지역": [
+     {
+      "text": "법인사업자: 사업자등록증 또는 법인등기부등본을 통해 서울 소재를 증빙 가능한 기업",
+      "source": "첨부",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794"
+     },
+     {
+      "text": "개인사업자: 사업자등록증 또는 대표자 주민등록등본을 통해 서울 소재를 증빙 가능한 기업",
+      "source": "첨부",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794"
+     }
+    ],
+    "인원": [],
+    "연령": []
+   },
+   "chk": null,
+   "collectedAt": "2026-11-20T12:20:47+09:00"
   }
- ]
+ ],
+ "freshAt": "2026-11-20T12:20:47+09:00"
 }
