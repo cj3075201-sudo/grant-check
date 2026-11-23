@@ -1,0 +1,662 @@
+{
+ "baseDate": "2026-11-23",
+ "builtAt": "2026-11-23T11:25:34",
+ "source": "자료/기회수집_2026-10-24 series.json(10/24 조사) + steam_events.json(Next Fest)",
+ "items": [
+  {
+   "id": "com2us-comon-2026",
+   "name": "컴투스 컴:온 공모전 2026",
+   "kind": "공모전",
+   "org": "컴투스 · 게임문화재단",
+   "domestic": true,
+   "applyStart": "2026-11-19",
+   "applyEnd": "2026-12-30",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2024년 12월, 2025년 12월 · 연간 일정",
+   "prep": [
+    "참가신청서",
+    "기획서",
+    "플레이 영상"
+   ],
+   "condNote": "출시 전 게임만",
+   "cond": {
+    "출시전만": true
+   },
+   "url": "https://contest.com2us.com"
+  },
+  {
+   "id": "steam-nextfest-feb_2027",
+   "name": "Steam Next Fest 2027-02",
+   "kind": "플랫폼 이벤트",
+   "org": "Valve",
+   "domestic": false,
+   "applyStart": null,
+   "applyEnd": "2027-01-10",
+   "eventStart": "2027-02-22",
+   "eventEnd": "2027-03-01",
+   "confirmed": true,
+   "basis": "",
+   "prep": [
+    "Steam 스토어 페이지",
+    "데모 빌드"
+   ],
+   "condNote": "출시 전 게임만 · Steam 스토어 페이지와 데모 필요",
+   "cond": {
+    "출시전만": true,
+    "확인필요": "Steam 스토어 페이지와 데모 필요"
+   },
+   "url": "https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest/feb_2027"
+  },
+  {
+   "id": "big-festival-2027",
+   "name": "BIG Festival(gamescom latam) 2027",
+   "kind": "공모전",
+   "org": "gamescom latam",
+   "domestic": false,
+   "applyStart": "2026-10-16",
+   "applyEnd": "2027-01-15",
+   "eventStart": "2027-04-22",
+   "eventEnd": "2027-04-25",
+   "confirmed": true,
+   "basis": "확인 수준: 보도",
+   "prep": [
+    "데모 빌드"
+   ],
+   "condNote": "",
+   "cond": {},
+   "url": "https://www.bigfestival.com.br"
+  },
+  {
+   "id": "neowiz-quest-2027",
+   "name": "네오위즈 인디 퀘스트 2027",
+   "kind": "공모전",
+   "org": "네오위즈",
+   "domestic": true,
+   "applyStart": null,
+   "applyEnd": "2027-01-16",
+   "eventStart": "2027-04-21",
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 1월 · 연간 일정",
+   "prep": [],
+   "condNote": "출시 전 게임만",
+   "cond": {
+    "출시전만": true
+   },
+   "url": "https://www.neowiz.com"
+  },
+  {
+   "id": "ggj-2027",
+   "name": "Global Game Jam 2027",
+   "kind": "게임잼",
+   "org": "GGJ",
+   "domestic": false,
+   "applyStart": null,
+   "applyEnd": null,
+   "eventStart": "2027-01-30",
+   "eventEnd": "2027-02-01",
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 1월 · 연간 일정(사이트 봇 차단)",
+   "prep": [],
+   "condNote": "",
+   "cond": {},
+   "url": "https://globalgamejam.org"
+  },
+  {
+   "id": "bitsummit-2027",
+   "name": "BitSummit 출품 2027",
+   "kind": "출품 행사",
+   "org": "BitSummit 실행위",
+   "domestic": false,
+   "applyStart": null,
+   "applyEnd": "2027-01-31",
+   "eventStart": "2027-05-21",
+   "eventEnd": "2027-05-23",
+   "confirmed": true,
+   "basis": "확인 수준: 보도",
+   "prep": [],
+   "condNote": "교토 현장 출전, 심사비 2,750엔",
+   "cond": {
+    "확인필요": "교토 현장 출전, 심사비 2,750엔"
+   },
+   "url": "https://bitsummit.org"
+  },
+  {
+   "id": "brackeys-2027",
+   "name": "Brackeys Game Jam 2027",
+   "kind": "게임잼",
+   "org": "Brackeys",
+   "domestic": false,
+   "applyStart": null,
+   "applyEnd": null,
+   "eventStart": "2027-02-15",
+   "eventEnd": "2027-02-22",
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 2월, 2026년 8월 · itch.io",
+   "prep": [],
+   "condNote": "",
+   "cond": {},
+   "url": "https://itch.io/jams"
+  },
+  {
+   "id": "kocca-prestartup-dev-2027",
+   "name": "콘진원 예비창업 게임 개발 지원 2027",
+   "kind": "지원사업",
+   "org": "한국콘텐츠진흥원",
+   "domestic": true,
+   "applyStart": "2027-01-31",
+   "applyEnd": "2027-02-20",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2024년 2월, 2025년 2월, 2026년 3월 · 공공 API(콘진원)로 확정",
+   "prep": [
+    "참가신청서",
+    "기획서",
+    "플레이 영상",
+    "데모 빌드"
+   ],
+   "condNote": "",
+   "cond": {},
+   "url": "https://www.kocca.kr"
+  },
+  {
+   "id": "epic-megagrants-2027",
+   "name": "Epic MegaGrants 2027",
+   "kind": "지원사업",
+   "org": "Epic Games",
+   "domestic": false,
+   "applyStart": "2027-01-12",
+   "applyEnd": "2027-03-20",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 3월, 2026년 9월 · 연간 일정(사이트 봇 차단)",
+   "prep": [],
+   "condNote": "Unreal Engine 사용 프로젝트",
+   "cond": {
+    "확인필요": "Unreal Engine 사용 프로젝트"
+   },
+   "url": "https://www.unrealengine.com/megagrants"
+  },
+  {
+   "id": "indiple-awards-2027",
+   "name": "인디플 어워즈 2027",
+   "kind": "공모전",
+   "org": "한국AI게임협회",
+   "domestic": true,
+   "applyStart": "2027-03-09",
+   "applyEnd": "2027-04-09",
+   "eventStart": "2027-05-21",
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 4월 · 연간 일정(네이버 카페)",
+   "prep": [
+    "플레이 영상"
+   ],
+   "condNote": "전년 출시작 또는 데모",
+   "cond": {
+    "확인필요": "전년 출시작 또는 데모"
+   },
+   "url": "https://www.gamemeca.com"
+  },
+  {
+   "id": "indiego-2027",
+   "name": "스마일게이트 IndieGo 공모전 2027",
+   "kind": "공모전",
+   "org": "스마일게이트 퓨처랩",
+   "domestic": true,
+   "applyStart": "2027-03-10",
+   "applyEnd": "2027-04-12",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 4월 · 연간 일정",
+   "prep": [],
+   "condNote": "퍼블리싱 계약 없는 게임",
+   "cond": {
+    "확인필요": "퍼블리싱 계약 없는 게임"
+   },
+   "url": "https://page.onstove.com/devlog/kr/view/12355728"
+  },
+  {
+   "id": "gyeonggi-audition-2027",
+   "name": "경기게임오디션 2027",
+   "kind": "공모전",
+   "org": "경기도 · 경기콘텐츠진흥원",
+   "domestic": true,
+   "applyStart": "2027-03-14",
+   "applyEnd": "2027-04-14",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 4월, 2026년 8월 · 공지 감시",
+   "prep": [
+    "데모 빌드"
+   ],
+   "condNote": "출시 전 게임만",
+   "cond": {
+    "출시전만": true
+   },
+   "url": "https://www.gcon.or.kr"
+  },
+  {
+   "id": "ludum-dare-2027",
+   "name": "Ludum Dare 2027",
+   "kind": "게임잼",
+   "org": "ldjam.com",
+   "domestic": false,
+   "applyStart": null,
+   "applyEnd": null,
+   "eventStart": "2027-04-18",
+   "eventEnd": "2027-04-21",
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 4월, 2026년 10월 · Ludum Dare API",
+   "prep": [],
+   "condNote": "",
+   "cond": {},
+   "url": "https://ldjam.com"
+  },
+  {
+   "id": "tgs-si80-2027",
+   "name": "TGS Selected Indie 80 2027",
+   "kind": "출품 행사",
+   "org": "CESA",
+   "domestic": false,
+   "applyStart": null,
+   "applyEnd": "2027-04-30",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 5월, 2026년 4월 · 연간 일정",
+   "prep": [],
+   "condNote": "도쿄 현장 상주",
+   "cond": {
+    "확인필요": "도쿄 현장 상주"
+   },
+   "url": "https://tgs.cesa.or.jp"
+  },
+  {
+   "id": "seoul-playup-2027",
+   "name": "서울 게임 공모전(플레이업) 2027",
+   "kind": "공모전",
+   "org": "서울경제진흥원",
+   "domestic": true,
+   "applyStart": "2027-04-10",
+   "applyEnd": "2027-05-07",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 8월, 2026년 5월 · 위비티 감시",
+   "prep": [
+    "데모 빌드",
+    "플레이 영상",
+    "기획서"
+   ],
+   "condNote": "",
+   "cond": {},
+   "url": "https://kiweb.or.kr/contest/sba-ncai-2026"
+  },
+  {
+   "id": "indiecraft-2027",
+   "name": "인디크래프트 출품 2027",
+   "kind": "출품 행사",
+   "org": "성남시 · 성남산업진흥원",
+   "domestic": true,
+   "applyStart": null,
+   "applyEnd": "2027-05-11",
+   "eventStart": "2027-09-11",
+   "eventEnd": "2027-09-12",
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 5월, 2026년 5월 · 연간 일정",
+   "prep": [],
+   "condNote": "",
+   "cond": {},
+   "url": "https://www.indiecraft.kr"
+  },
+  {
+   "id": "seoul-indie-challenge-2027",
+   "name": "서울 인디게임 개발 챌린지 2027",
+   "kind": "게임잼",
+   "org": "서울시 · 서울경제진흥원",
+   "domestic": true,
+   "applyStart": null,
+   "applyEnd": "2027-05-29",
+   "eventStart": "2027-06-26",
+   "eventEnd": "2027-06-28",
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 5월 · 공공 API(K-Startup)로 확정",
+   "prep": [
+    "참가신청서"
+   ],
+   "condNote": "5인 이하 10팀 선발",
+   "cond": {
+    "확인필요": "5인 이하 10팀 선발"
+   },
+   "url": "https://www.sba.seoul.kr"
+  },
+  {
+   "id": "zempie-zemjam-2027",
+   "name": "젬잼 썸머에디션 2027",
+   "kind": "게임잼",
+   "org": "젬파이",
+   "domestic": true,
+   "applyStart": "2027-05-12",
+   "applyEnd": "2027-06-10",
+   "eventStart": "2027-06-19",
+   "eventEnd": "2027-06-21",
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 6월 · 연간 일정",
+   "prep": [],
+   "condNote": "",
+   "cond": {},
+   "url": "https://event-us.kr/zempie/event/125937"
+  },
+  {
+   "id": "steam-nextfest-jun_2027",
+   "name": "Steam Next Fest 2027-06",
+   "kind": "플랫폼 이벤트",
+   "org": "Valve",
+   "domestic": false,
+   "applyStart": null,
+   "applyEnd": null,
+   "eventStart": "2027-06-14",
+   "eventEnd": "2027-06-21",
+   "confirmed": true,
+   "basis": "",
+   "prep": [
+    "Steam 스토어 페이지",
+    "데모 빌드"
+   ],
+   "condNote": "출시 전 게임만 · Steam 스토어 페이지와 데모 필요",
+   "cond": {
+    "출시전만": true,
+    "확인필요": "Steam 스토어 페이지와 데모 필요"
+   },
+   "url": "https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest/jun_2027"
+  },
+  {
+   "id": "bic-2027",
+   "name": "BIC 부산인디커넥트 출품 2027",
+   "kind": "출품 행사",
+   "org": "BIC 조직위",
+   "domestic": true,
+   "applyStart": "2027-04-08",
+   "applyEnd": "2027-06-17",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2024년 6월, 2025년 8월, 2026년 6월 · 공지 감시",
+   "prep": [],
+   "condNote": "",
+   "cond": {},
+   "url": "https://www.bicfest.org"
+  },
+  {
+   "id": "gngc-jam-2027",
+   "name": "GNGC 게임잼(경남) 2027",
+   "kind": "게임잼",
+   "org": "경남글로벌게임센터",
+   "domestic": true,
+   "applyStart": "2027-06-08",
+   "applyEnd": "2027-06-22",
+   "eventStart": "2027-07-03",
+   "eventEnd": "2027-07-05",
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 6월, 2026년 6월 · 공지 감시",
+   "prep": [],
+   "condNote": "개인 지원, 직군별 선발",
+   "cond": {
+    "확인필요": "개인 지원, 직군별 선발"
+   },
+   "url": "https://www.gngc.or.kr"
+  },
+  {
+   "id": "gigdc-2027",
+   "name": "GIGDC 글로벌 인디게임 제작경진대회 2027",
+   "kind": "공모전",
+   "org": "한국콘텐츠진흥원 · 한국게임개발자협회",
+   "domestic": true,
+   "applyStart": "2027-06-08",
+   "applyEnd": "2027-06-25",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 7월, 2026년 6월 · 연간 일정(자동 수집 금지)",
+   "prep": [],
+   "condNote": "만 29세 이하",
+   "cond": {
+    "나이상한": 29
+   },
+   "url": "https://www.gigdc.or.kr"
+  },
+  {
+   "id": "nexon-jaemitnek-2027",
+   "name": "넥슨 재밌넥 게임잼 2027",
+   "kind": "게임잼",
+   "org": "넥슨",
+   "domestic": true,
+   "applyStart": "2027-06-18",
+   "applyEnd": "2027-06-28",
+   "eventStart": "2027-07-24",
+   "eventEnd": "2027-07-26",
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 6월, 2026년 6월 · 연간 일정",
+   "prep": [],
+   "condNote": "학생만",
+   "cond": {
+    "학생만": true
+   },
+   "url": "https://nexon-gamejam.com"
+  },
+  {
+   "id": "gmtk-2027",
+   "name": "GMTK Game Jam 2027",
+   "kind": "게임잼",
+   "org": "Game Maker's Toolkit",
+   "domestic": false,
+   "applyStart": null,
+   "applyEnd": null,
+   "eventStart": "2027-07-22",
+   "eventEnd": "2027-07-26",
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 7월, 2026년 7월 · itch.io",
+   "prep": [],
+   "condNote": "",
+   "cond": {},
+   "url": "https://itch.io/jam/gmtk-2027"
+  },
+  {
+   "id": "indie-in-d-2027",
+   "name": "인디 in D 게임잼(대전) 2027",
+   "kind": "게임잼",
+   "org": "대전정보문화산업진흥원",
+   "domestic": true,
+   "applyStart": "2027-07-22",
+   "applyEnd": "2027-07-25",
+   "eventStart": "2027-08-07",
+   "eventEnd": "2027-08-09",
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 7월 · 연간 일정(자동 수집 금지)",
+   "prep": [],
+   "condNote": "지역: 대전",
+   "cond": {
+    "지역": [
+     "대전"
+    ]
+   },
+   "url": "https://www.dicia.or.kr"
+  },
+  {
+   "id": "beaverrocks-2027",
+   "name": "비버롹스 출품 2027",
+   "kind": "출품 행사",
+   "org": "스마일게이트 퓨처랩",
+   "domestic": true,
+   "applyStart": "2027-05-19",
+   "applyEnd": "2027-07-27",
+   "eventStart": "2027-12-18",
+   "eventEnd": "2027-12-20",
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 9월, 2026년 7월 · 연간 일정",
+   "prep": [],
+   "condNote": "",
+   "cond": {},
+   "url": "https://beaverrocks.kr"
+  },
+  {
+   "id": "js13k-2027",
+   "name": "js13kGames 2027",
+   "kind": "게임잼",
+   "org": "js13k",
+   "domestic": false,
+   "applyStart": null,
+   "applyEnd": null,
+   "eventStart": "2027-08-13",
+   "eventEnd": "2027-09-13",
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 8월 · RSS",
+   "prep": [
+    "데모 빌드"
+   ],
+   "condNote": "",
+   "cond": {},
+   "url": "https://js13kgames.com"
+  },
+  {
+   "id": "taipei-iga-2027",
+   "name": "Taipei Game Show Indie Game Award 2027",
+   "kind": "공모전",
+   "org": "TCA",
+   "domestic": false,
+   "applyStart": "2027-07-01",
+   "applyEnd": "2027-08-19",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 8월 · 연간 일정",
+   "prep": [
+    "데모 빌드"
+   ],
+   "condNote": "",
+   "cond": {},
+   "url": "https://tgs.tca.org.tw/indie_award_e.php"
+  },
+  {
+   "id": "igf-2027",
+   "name": "IGF(Independent Games Festival) 2027",
+   "kind": "공모전",
+   "org": "GDC",
+   "domestic": false,
+   "applyStart": "2027-08-10",
+   "applyEnd": "2027-09-13",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 9월 · 연간 일정",
+   "prep": [
+    "데모 빌드"
+   ],
+   "condNote": "",
+   "cond": {},
+   "url": "https://igf.com/submission-info"
+  },
+  {
+   "id": "gstar-indie-2027",
+   "name": "지스타 인디 쇼케이스 2027",
+   "kind": "출품 행사",
+   "org": "지스타조직위",
+   "domestic": true,
+   "applyStart": "2027-09-02",
+   "applyEnd": "2027-09-15",
+   "eventStart": "2027-11-19",
+   "eventEnd": "2027-11-22",
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 10월, 2026년 9월 · 연간 일정(자동 수집 금지)",
+   "prep": [],
+   "condNote": "행사 4일 부스 상주",
+   "cond": {
+    "확인필요": "행사 4일 부스 상주"
+   },
+   "url": "https://www.gstar.or.kr"
+  },
+  {
+   "id": "indie-u-2027",
+   "name": "대전 indie-U 공모전 2027",
+   "kind": "공모전",
+   "org": "대전정보문화산업진흥원",
+   "domestic": true,
+   "applyStart": "2027-09-08",
+   "applyEnd": "2027-09-29",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2026년 9월 · 연간 일정(자동 수집 금지)",
+   "prep": [],
+   "condNote": "출시 전 게임만",
+   "cond": {
+    "출시전만": true
+   },
+   "url": "https://www.dicia.or.kr"
+  },
+  {
+   "id": "korea-game-award-indie-2027",
+   "name": "대한민국 게임대상 인디게임상 2027",
+   "kind": "공모전",
+   "org": "문화체육관광부",
+   "domestic": true,
+   "applyStart": "2027-09-22",
+   "applyEnd": "2027-10-02",
+   "eventStart": "2027-11-12",
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 10월, 2026년 10월 · 연간 일정",
+   "prep": [
+    "참가신청서"
+   ],
+   "condNote": "출시작만",
+   "cond": {
+    "확인필요": "출시작만"
+   },
+   "url": "https://www.mcst.go.kr"
+  },
+  {
+   "id": "gbgc-jam-2027",
+   "name": "GBGC 게임잼(경북) 2027",
+   "kind": "게임잼",
+   "org": "경북글로벌게임센터",
+   "domestic": true,
+   "applyStart": "2027-10-02",
+   "applyEnd": "2027-10-16",
+   "eventStart": null,
+   "eventEnd": null,
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 10월, 2026년 10월 · 링커리어 · 위비티 감시",
+   "prep": [],
+   "condNote": "경북도민 우선",
+   "cond": {
+    "확인필요": "경북도민 우선"
+   },
+   "url": "https://linkareer.com/activity/356605"
+  },
+  {
+   "id": "game-off-2027",
+   "name": "GitHub Game Off 2027",
+   "kind": "게임잼",
+   "org": "GitHub",
+   "domestic": false,
+   "applyStart": null,
+   "applyEnd": null,
+   "eventStart": "2027-11-01",
+   "eventEnd": "2027-12-01",
+   "confirmed": false,
+   "basis": "지난 회차: 2025년 11월 · itch.io",
+   "prep": [],
+   "condNote": "",
+   "cond": {},
+   "url": "https://itch.io/jam/game-off-2026"
+  }
+ ]
+}
